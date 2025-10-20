@@ -4,6 +4,8 @@ Hi! I'm [Rudzaidan Rosdi (Aidan)], a student in the Framework-Based Software Des
 I [expect to learn a lot about modern software maintenance practices and how to work with legacy systems].
 
 ![My Image](IMG_7242.jpg)  <!-- Link to the uploaded image -->
+![My Image](IMG_5191.jpg)
+![My Image](IMG_5308.jpg)
 
 ## GitHub Profile
 
